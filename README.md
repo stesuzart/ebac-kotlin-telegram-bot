@@ -9,5 +9,6 @@ Tecnologias usadas:
 * [Emoji Java](https://github.com/vdurmont/emoji-java)
 * Gradle 7.3
 * Kotlin 1.5.31
+* [Código dos emojis](https://gist.github.com/rxaviers/7360908)
 
 Divirtam-se :)
