@@ -5,7 +5,7 @@ Estrutura base para o desenvolvimento de um bot para telegram com a linguagem ko
 
 
 Tecnologias usadas:
-* [Telegram Bot Api](https://core.telegram.org/bots/api)
+* [Telegram Bot Api](https://core.telegram.org/bots/api#sendvideo)
 * [Emoji Java](https://github.com/vdurmont/emoji-java)
 * Gradle 7.3
 * Kotlin 1.5.31
